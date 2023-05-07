@@ -1,8 +1,10 @@
 # Flappy Cass 🐦
 
-This is a super quick project to recreate the classic Flappy Bird game using HTML, CSS, and JavaScript. Flappy Cass features simple yet addicting gameplay with a unique twist—our endearing little bird character, Cass!
+This is a super quick project to recreate the classic Flappy Bird game using
+HTML, CSS, and JavaScript. Flappy Cass features simple yet addicting gameplay
+with a unique twist—our endearing little bird character, Cass!
 
-![Flappy Cass Game Preview](./assets/images/flappy-cass-preview.png)
+![Flappy Cass Game Preview](./assets/flappy-cass-preview.png)
 
 ## Table of Contents
 
@@ -18,11 +20,13 @@ This is a super quick project to recreate the classic Flappy Bird game using HTM
 To get started with Flappy Cass, follow these steps:
 
 1. Clone the repository to your local machine:
+
 ```bash
 git clone https://github.com/adrjmz/flappy-cass
 ```
 
 2. Navigate to the project folder:
+
 ```bash
 cd flappy-cass
 ```
@@ -33,9 +37,11 @@ cd flappy-cass
 
 ## How to Play
 
-The objective of Flappy Cass is to navigate Cass through a series of pipes without colliding. 
+The objective of Flappy Cass is to navigate Cass through a series of pipes
+without colliding.
 
 Controls:
+
 - Click or press the spacebar to make Cass flap her wings and gain altitude.
 - Release to let Cass descend.
 
@@ -49,6 +55,7 @@ Challenge yourself to achieve the highest score possible!
 - Colorful and intuitive user interface.
 
 ## Technology Stack
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" height="50px" width="50px">
@@ -73,4 +80,5 @@ Contributions are welcome! To contribute, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](./LICENSE) for more information.
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for
+more information.
